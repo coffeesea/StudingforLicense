@@ -1,0 +1,149 @@
+#include <stdio.h> // 1 증가연산자
+int main() {
+  int a=5, b=6, c=7;
+  c(a++, ++b, a+b);
+  printf("%d, %d, %d\n ", a,b,c);
+return 0;
+}
+
+#include <stdio.h> // 2 조건연산자, 단락평가
+int main(){
+  int a=2, b=5;
+  
+return 0;
+}
+
+#include <stdio.h> // 3 비트연산자
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 4 sizeof연산자, 형 변환
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 5 if문
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 6 switch문
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 7 for문
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 8 while문
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 9 do~while문
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 10 중첩 반복문
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 11 중첩 반복문
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 12 정적변수와 자동변수
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 13 매개변수 전달기법
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 14 포인터
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 15 문자열 포인터
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 16 1차원 배열
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 17 포인터와 배열
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 18 포인터와 배열
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 19 구조체
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 20 순환함수 (재귀호출, 되부름)
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 21 순환함수 (재귀호출, 되부름)
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 22 malloc(), free() 힙메모리요청과 해체
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 23 삽입정렬
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 24 선택정렬(내림차순)
+int main(){
+
+return 0;
+}
+
+#include <stdio.h> // 25 버블정렬(오름차순)
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 26 스택[push, pop 연산자의 구현]
+int main(){
+
+return 0;
+}
+#include <stdio.h> // 27 원형 큐[Insert, Delete 연산자의 구현]
+int main(){
+
+return 0;
+}
